@@ -1,0 +1,28 @@
+# 内容：学术网站
+# 数量：26条
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,ovid.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,oxfordjournals.org
+DOMAIN-SUFFIX,bmj.com
+DOMAIN-SUFFIX,annualreviews.org
+DOMAIN-SUFFIX,karger.com
+DOMAIN-SUFFIX,proquest.com
+DOMAIN-SUFFIX,jove.com
+DOMAIN-SUFFIX,nejm.org
+DOMAIN-SUFFIX,ebscohost.com
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-SUFFIX,aacrjournals.org
+DOMAIN-SUFFIX,jamanetwork.com
+DOMAIN-SUFFIX,pnas.org
+DOMAIN-SUFFIX,physiology.org
+DOMAIN-SUFFIX,eurekaselect.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,asm.org
+DOMAIN-SUFFIX,cell.com
+DOMAIN-SUFFIX,thelancet.com
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,thermofisher.com
